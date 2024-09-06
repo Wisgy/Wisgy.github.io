@@ -15,9 +15,8 @@ tags: [manjaro]
 - OS: Manjaro Linux x86_64
 - Kernel: 6.9.10-1-MANJARO 
 - Window System: X11
-- DE: Plasma 6.0.5 $SELECTION_PLACEHOLDER$- WM: KWin 
-- CPU: AMD Ryzen 7 4800H with Radeon Graphics (16) @ 2.900GHz 
-- GPU: NVIDIA GeForce RTX 2060 Mobile 
+- DE: Plasma 6.0.5 
+- WM: KWin 
 
 ## Configuration Steps
 1. Download and install the packages
@@ -42,7 +41,3 @@ patch:
   - schema: rime_ice
 ```
 6. Restart the system
-
-- WM: KWin 
-- CPU: AMD Ryzen 7 4800H with Radeon Graphics (16) @ 2.900GHz 
-- GPU: NVIDIA GeForce RTX 2060 Mobile 
